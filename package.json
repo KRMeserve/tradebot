@@ -1,0 +1,24 @@
+{
+  "name": "tradebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "iex-api": "0.0.3",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRMeserve/tradebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRMeserve/tradebot/issues"
+  },
+  "homepage": "https://github.com/KRMeserve/tradebot#readme"
+}
